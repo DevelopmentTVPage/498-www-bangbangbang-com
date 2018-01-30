@@ -1,0 +1,15 @@
+{
+    "title": "KOOL",
+    "baseURL": "https:\/\/www.bangbangbang.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759047",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "bangbangbang.com"
+    }
+}
